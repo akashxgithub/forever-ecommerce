@@ -8,7 +8,8 @@ Features
 - Cart Management: Add products with specific sizes to the cart.
                    Update product quantities in the cart.
                    Remove products from the cart.
--Checkout Process:
+  
+- Checkout Process:
 Enter and save delivery address details.
 Review the total cost including delivery charges.
 Place an order with saved details.
